@@ -1,2 +1,2 @@
-# Pull_Requet_Template
-Template for PR
+# Github repo containing templates
+
