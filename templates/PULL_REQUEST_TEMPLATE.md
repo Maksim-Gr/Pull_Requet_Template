@@ -2,10 +2,9 @@
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-## Linear ticket:
+## Linear ticket
 
-
-## Type of change
+### Type of change
 
 Check the change type.
 
@@ -15,6 +14,3 @@ Check the change type.
 - [ ] This change requires a documentation update
 - [ ] Fast-fix (non-breaking change which fixes minor issue)
 - [ ] Rollout
-
-
-
